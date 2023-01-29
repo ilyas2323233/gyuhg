@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: center;
+
+}
+
+.Xmasballs {
+  width: 99%;
+  display: flex;
+}
+
+.ul {
+  font-size: large;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  /* align-content: center; */
+  justify-content: center;
+  align-items: center;
+}
